@@ -74,7 +74,7 @@ export default function About() {
                 <div className="w-80 h-80 rounded-full bg-gradient-to-br from-primary to-purple-600 p-1">
                   <div className="w-full h-full rounded-full bg-background flex items-center justify-center">
                     <Image
-                      src="/placeholder.svg?height=300&width=300"
+                      src="https://avatars.githubusercontent.com/u/174265714?v=4"
                       alt="AI Developer Profile"
                       width={300}
                       height={300}
