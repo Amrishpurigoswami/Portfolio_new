@@ -14,7 +14,7 @@ const projects = [
     title: "AI-Powered Chatbot",
     description:
       "Built an intelligent chatbot using NLP and deployed it with Flask. Features include sentiment analysis, intent recognition, and multi-language support.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/chatbot.png?height=200&width=300",
     tags: ["Python", "TensorFlow", "Flask", "NLP"],
     demoUrl: "https://demo.example.com",
     githubUrl: "https://github.com/example/chatbot",
