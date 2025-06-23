@@ -80,7 +80,7 @@ export default function Hero() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-foreground via-primary to-purple-600 bg-clip-text text-transparent animate-fade-in">
-            I Build Intelligent AI Solutions
+            Hi, I'm Amrish Puri Goswami
           </h1>
 
           <p className="text-xl sm:text-2xl text-muted-foreground mb-8 animate-fade-in-delay-1">

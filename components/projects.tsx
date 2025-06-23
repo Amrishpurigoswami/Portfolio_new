@@ -14,7 +14,7 @@ const projects = [
     title: "AI-Powered Chatbot",
     description:
       "Built an intelligent chatbot using NLP and deployed it with Flask. Features include sentiment analysis, intent recognition, and multi-language support.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/chatbot-project.png",
     tags: ["Python", "TensorFlow", "Flask", "NLP"],
     demoUrl: "https://demo.example.com",
     githubUrl: "https://github.com/example/chatbot",
@@ -24,20 +24,10 @@ const projects = [
     title: "Image Classification Model",
     description:
       "Developed a deep learning model for image classification with 95% accuracy. Implemented using CNN architecture and deployed on AWS.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/image-classification-project.jpg",
     tags: ["Python", "PyTorch", "AWS", "Computer Vision"],
     demoUrl: "https://demo.example.com",
     githubUrl: "https://github.com/example/image-classifier",
-  },
-  {
-    id: 3,
-    title: "Predictive Analytics Dashboard",
-    description:
-      "Created a real-time analytics dashboard for business intelligence. Features predictive modeling and interactive data visualizations.",
-    image: "/placeholder.svg?height=200&width=300",
-    tags: ["Python", "Scikit-learn", "React", "D3.js"],
-    demoUrl: "https://demo.example.com",
-    githubUrl: "https://github.com/example/analytics-dashboard",
   },
   {
     id: 4,

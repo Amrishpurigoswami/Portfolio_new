@@ -44,9 +44,8 @@ export default function About() {
               </p>
 
               <p className="text-muted-foreground text-lg mb-6 leading-relaxed">
-                With a strong background in computer science and years of hands-on experience, I specialize in
-                developing intelligent systems that can learn, adapt, and make decisions. My work spans across various
-                domains including natural language processing, computer vision, and predictive analytics.
+                With a strong background in computer science and years of hands-on experience, my work spans across
+                various domains including natural language processing, computer vision, and predictive analytics.
               </p>
 
               <div className="grid grid-cols-2 gap-6 mt-8">
