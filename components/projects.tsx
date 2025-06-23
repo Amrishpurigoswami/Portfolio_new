@@ -30,14 +30,14 @@ const projects = [
     githubUrl: "https://github.com/example/image-classifier",
   },
   {
-    id: 4,
-    title: "Recommendation System",
+    id: 3,
+    title: "Detecting-Spam-Emails",
     description:
-      "Built a collaborative filtering recommendation system for e-commerce. Improved user engagement by 40% through personalized recommendations.",
-    image: "/placeholder.svg?height=200&width=300",
-    tags: ["Python", "TensorFlow", "MongoDB", "Docker"],
+      "Spam messages are unsolicited or unwanted emails/messages sent in bulk to users. Detecting spam emails automatically helps prevent unnecessary clutter in users' inboxes.",
+    image: "/spam-detection-project.png",
+    tags: ["Python", "Machine Learning", "NLP", "Scikit-learn"],
     demoUrl: "https://demo.example.com",
-    githubUrl: "https://github.com/example/recommendation-system",
+    githubUrl: "https://github.com/example/spam-detection",
   },
 ]
 
