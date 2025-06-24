@@ -160,11 +160,19 @@ export default function Contact() {
                   <CardDescription>Get a copy of my resume</CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <Button className="w-full" asChild>
-                    <Link href="/cv.pdf" target="_blank" rel="noopener noreferrer">
-                      <Download className="w-4 h-4 mr-2" />
-                      Download CV
-                    </Link>
+                  <Button
+                    className="w-full"
+                    onClick={() => {
+                      const link = document.createElement("a")
+                      link.href = "/Amrish_Puri_Goswami_CV.pdf"
+                      link.download = "Amrish_Puri_Goswami_CV.pdf"
+                      document.body.appendChild(link)
+                      link.click()
+                      document.body.removeChild(link)
+                    }}
+                  >
+                    <Download className="w-4 h-4 mr-2" />
+                    Download CV
                   </Button>
                 </CardContent>
               </Card>
