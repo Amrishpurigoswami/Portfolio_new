@@ -36,33 +36,35 @@ export default function About() {
 
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="order-2 lg:order-1">
-              <h3 className="text-2xl font-semibold mb-6">Passionate AI Developer</h3>
+              <h3 className="text-2xl font-semibold mb-6">AI & Machine Learning Enthusiast</h3>
               <p className="text-muted-foreground text-lg mb-6 leading-relaxed">
-                I'm a passionate AI developer with expertise in machine learning, deep learning, and data science. I
-                create innovative solutions to solve real-world problems using cutting-edge artificial intelligence
-                technologies.
+                I'm Amrish Puri Goswami, a passionate AI developer and B.Tech student at Jodhpur Institute of
+                Engineering & Technology (JIET), India. I specialize in machine learning, deep learning, and web
+                development, creating innovative solutions to solve real-world problems using cutting-edge artificial
+                intelligence technologies.
               </p>
 
               <p className="text-muted-foreground text-lg mb-6 leading-relaxed">
-                With a strong background in computer science and years of hands-on experience, my work spans across
-                various domains including natural language processing, computer vision, and predictive analytics.
+                Currently pursuing my Bachelor of Technology in Information Technology (2023-27) with a CGPA of 7.79. My
+                work spans across various domains including computer vision, natural language processing, and web
+                development with modern frameworks like Next.js and React.
               </p>
 
               <div className="grid grid-cols-2 gap-6 mt-8">
                 <div>
-                  <h4 className="font-semibold text-primary mb-2">50+</h4>
+                  <h4 className="font-semibold text-primary mb-2">15+</h4>
                   <p className="text-muted-foreground">Projects Completed</p>
                 </div>
                 <div>
-                  <h4 className="font-semibold text-primary mb-2">5+</h4>
+                  <h4 className="font-semibold text-primary mb-2">2+</h4>
                   <p className="text-muted-foreground">Years Experience</p>
                 </div>
                 <div>
-                  <h4 className="font-semibold text-primary mb-2">20+</h4>
-                  <p className="text-muted-foreground">Happy Clients</p>
+                  <h4 className="font-semibold text-primary mb-2">8+</h4>
+                  <p className="text-muted-foreground">Certifications</p>
                 </div>
                 <div>
-                  <h4 className="font-semibold text-primary mb-2">10+</h4>
+                  <h4 className="font-semibold text-primary mb-2">12+</h4>
                   <p className="text-muted-foreground">Technologies</p>
                 </div>
               </div>

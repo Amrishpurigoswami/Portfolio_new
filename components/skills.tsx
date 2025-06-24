@@ -7,37 +7,37 @@ const skillCategories = [
   {
     title: "Programming Languages",
     skills: [
-      { name: "Python", level: 95, icon: "🐍" },
+      { name: "Python", level: 90, icon: "🐍" },
       { name: "JavaScript", level: 85, icon: "⚡" },
-      { name: "R", level: 75, icon: "📊" },
-      { name: "SQL", level: 90, icon: "🗄️" },
+      { name: "C/C++", level: 80, icon: "💻" },
+      { name: "Java", level: 75, icon: "☕" },
     ],
   },
   {
     title: "AI/ML Frameworks",
     skills: [
-      { name: "TensorFlow", level: 90, icon: "🧠" },
-      { name: "PyTorch", level: 85, icon: "🔥" },
-      { name: "Scikit-learn", level: 95, icon: "🔬" },
-      { name: "Keras", level: 88, icon: "⚙️" },
+      { name: "TensorFlow", level: 88, icon: "🧠" },
+      { name: "Scikit-learn", level: 85, icon: "🔬" },
+      { name: "NLTK", level: 80, icon: "📝" },
+      { name: "Pandas", level: 90, icon: "🐼" },
+    ],
+  },
+  {
+    title: "Web Development",
+    skills: [
+      { name: "Next.js", level: 85, icon: "⚛️" },
+      { name: "React", level: 80, icon: "⚛️" },
+      { name: "Node.js", level: 75, icon: "🟢" },
+      { name: "HTML/CSS", level: 90, icon: "🎨" },
     ],
   },
   {
     title: "Tools & Technologies",
     skills: [
-      { name: "Git", level: 92, icon: "📝" },
-      { name: "Docker", level: 80, icon: "🐳" },
-      { name: "AWS", level: 78, icon: "☁️" },
-      { name: "MongoDB", level: 85, icon: "🍃" },
-    ],
-  },
-  {
-    title: "Specializations",
-    skills: [
-      { name: "Computer Vision", level: 88, icon: "👁️" },
-      { name: "NLP", level: 92, icon: "💬" },
-      { name: "Data Visualization", level: 85, icon: "📈" },
-      { name: "Deep Learning", level: 90, icon: "🤖" },
+      { name: "Git/GitHub", level: 85, icon: "📝" },
+      { name: "VS Code", level: 90, icon: "💻" },
+      { name: "SQL", level: 75, icon: "🗄️" },
+      { name: "AWS", level: 70, icon: "☁️" },
     ],
   },
 ]

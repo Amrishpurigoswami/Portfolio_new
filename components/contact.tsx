@@ -112,7 +112,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="font-medium">Email</p>
-                      <p className="text-muted-foreground">contact@example.com</p>
+                      <p className="text-muted-foreground">23jiai090@jiet.ac.in</p>
                     </div>
                   </div>
 
@@ -122,7 +122,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="font-medium">Location</p>
-                      <p className="text-muted-foreground">New York, USA</p>
+                      <p className="text-muted-foreground">Jodhpur, India</p>
                     </div>
                   </div>
                 </CardContent>
@@ -136,17 +136,21 @@ export default function Contact() {
                 <CardContent>
                   <div className="flex gap-4">
                     <Button variant="outline" size="icon" asChild>
-                      <Link href="https://github.com" target="_blank" rel="noopener noreferrer">
+                      <Link href="https://github.com/your_github_profile" target="_blank" rel="noopener noreferrer">
                         <Github className="w-5 h-5" />
                       </Link>
                     </Button>
                     <Button variant="outline" size="icon" asChild>
-                      <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                      <Link
+                        href="https://linkedin.com/in/your_linkedin_profile"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <Linkedin className="w-5 h-5" />
                       </Link>
                     </Button>
                     <Button variant="outline" size="icon" asChild>
-                      <Link href="mailto:contact@example.com">
+                      <Link href="mailto:23jiai090@jiet.ac.in">
                         <Mail className="w-5 h-5" />
                       </Link>
                     </Button>
