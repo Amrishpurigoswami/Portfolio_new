@@ -164,7 +164,7 @@ export default function Contact() {
                     className="w-full"
                     onClick={() => {
                       const link = document.createElement("a")
-                      link.href = "/Amrish_Puri_Goswami_CV.pdf"
+                      link.href = "/AMRISHPURIResume.pdf"
                       link.download = "Amrish_Puri_Goswami_CV.pdf"
                       document.body.appendChild(link)
                       link.click()
